@@ -1,0 +1,1 @@
+T1:S(A) T1:R(A) T2:X(B) T2:W(B) T1:S(B) T3:S(C) T3:R(C) T2:X(C) T4:X(B) T3:X(A)
